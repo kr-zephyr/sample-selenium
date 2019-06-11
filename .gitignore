@@ -1,0 +1,8 @@
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+.idea/
+*.iml
+**/target/*
+**/node_modules/*
+opensources/puppeteer/puppeteer-test/result_assert/* 
